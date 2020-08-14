@@ -1,4 +1,3 @@
-
 <h1 align="center" >
     <img alt="Logo Proffy" src="/public/images/logo.png" />
 </h1>
